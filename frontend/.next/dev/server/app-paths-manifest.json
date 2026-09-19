@@ -1,0 +1,13 @@
+{
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/climate-data/page": "app/(dashboard)/climate-data/page.js",
+  "/(dashboard)/countries/page": "app/(dashboard)/countries/page.js",
+  "/(dashboard)/analytics/page": "app/(dashboard)/analytics/page.js",
+  "/(dashboard)/real-time/page": "app/(dashboard)/real-time/page.js",
+  "/(dashboard)/admin/users/page": "app/(dashboard)/admin/users/page.js",
+  "/(dashboard)/map/page": "app/(dashboard)/map/page.js",
+  "/(dashboard)/reports/page": "app/(dashboard)/reports/page.js",
+  "/(dashboard)/alerts/page": "app/(dashboard)/alerts/page.js"
+}
